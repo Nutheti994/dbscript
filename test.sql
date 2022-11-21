@@ -11,16 +11,16 @@ CREATE TABLE Demo_Table (
 );
 
 INSERT INTO Persons (PersonID, LastName, FirstName, Address, City)
-VALUES (1, Khan, Patan, SouthEnd, Bangalore);
+VALUES (1, "Khan", "Patan", "SouthEnd", "Bangalore");
 
 INSERT INTO Persons (PersonID, LastName, FirstName, Address, City)
-VALUES (2, Karthik, GS, Gandhi Nagar, Bangalore);
+VALUES (2, "Karthik", "GS", "Gandhi Nagar", "Bangalore");
 
 INSERT INTO Persons (PersonID, LastName, FirstName, Address, City)
-VALUES (3, Harish, N, Basavangudi, Bangalore);
+VALUES (3, "Harish", "N", "Basavangudi", "Bangalore");
 
 INSERT INTO Persons (PersonID, LastName, FirstName, Address, City)
-VALUES (4, Chandan, Gowda, Vijayanagara, Bangalore);
+VALUES (4, "Chandan", "Gowda", "Vijayanagara", "Bangalore");
 
 INSERT INTO Persons (PersonID, LastName, FirstName, Address, City)
-VALUES (5, Murali, Kanaka, Banshankari, Bangalore);
+VALUES (5, "Murali", "Kanaka", "Banshankari", "Bangalore");
